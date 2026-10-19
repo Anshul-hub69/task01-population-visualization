@@ -23,5 +23,5 @@ Included in this repo:
 - Choosing the right chart for the right data
 - Formatting axis, labels, and visual clarity in charts
 
-#DataVisualization #Excel #Internship #SkillCraftTechnology
+#DataVisualization #Excel #Tableau #DataScience
 
