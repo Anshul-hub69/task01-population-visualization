@@ -7,10 +7,10 @@ Visualize the population of India from 1960 to 2024 using a **bar chart** to rep
 
 ## 📈 What I Did:
 
-- Downloaded and cleaned population data from the World Bank
-- Used Excel to format and create a bar chart
-- Learned the difference between bar charts vs. histograms
-- Improved skills in data visualization and interpretation
+- Downloaded and cleaned population data from the World Bank.
+- Used Excel to format and create a bar chart.
+- Learned the difference between bar charts vs. histograms.
+- Improved skills in data visualization and interpretation.
 
 ## 📷 Output:
 Included in this repo:
